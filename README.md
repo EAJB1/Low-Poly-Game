@@ -1,1 +1,3 @@
 # Low-Poly-Game
+
+The game will be put up at a later date...
